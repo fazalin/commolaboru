@@ -1,0 +1,1 @@
+let domainCopy = domain.slice();
